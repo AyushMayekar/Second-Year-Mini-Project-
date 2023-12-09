@@ -27,5 +27,12 @@ This project is a second-year mini project aimed at creating a simple yet effect
 4. Download the resized image once the process is complete.
 
 
+## Demonstration of the Project
+ Raw video link of the demonstration of the project is shared in the repository.
+ ![video](https://github.com/AyushMayekar/Second-Year-Mini-Project-/raw/main/MiniProject.mp4)
 
+## Sample Screenshots of the Project
+![1.](https://github.com/AyushMayekar/Second-Year-Mini-Project-/blob/main/Screenshot%202023-12-09%20115504.png?raw=true)
+![2.](https://github.com/AyushMayekar/Second-Year-Mini-Project-/blob/main/Screenshot%202023-12-09%20115548.png?raw=true)
+![3.](https://github.com/AyushMayekar/Second-Year-Mini-Project-/blob/main/Screenshot%202023-12-09%20115558.png?raw=true)
 
