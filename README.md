@@ -24,12 +24,7 @@ This project is a second-year mini project aimed at creating a simple yet effect
 1. Upload your image file in JPG, PNG, or GIF format.
 2. Specify the desired percentage for image resizing.
 3. Click the "Resize" button to initiate the resizing process.
-4. Download the resized image once the process is complete.
-
-
-## Demonstration of the Project
- Raw video link of the demonstration of the project is shared in the repository.
- ![video](https://github.com/AyushMayekar/Second-Year-Mini-Project-/raw/main/MiniProject.mp4)
+4. Download the resized image once the process is completed 
 
 ## Sample Screenshots of the Project
 ![1.](https://github.com/AyushMayekar/Second-Year-Mini-Project-/blob/main/Screenshot%202023-12-09%20115504.png?raw=true)
