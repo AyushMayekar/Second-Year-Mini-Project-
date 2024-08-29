@@ -1,4 +1,4 @@
-# Second-Year-Mini-Project-
+# Second-Year-Mini-Project
 # Image Resizer Website
 
 ## Overview
